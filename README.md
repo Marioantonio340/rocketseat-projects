@@ -11,7 +11,10 @@
 
 Cápsula do tempo é uma aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
 
-
+## 🔗 Links para o Projeto:
+- [Web](https://www.youtube.com/watch?v=lcrxu8zEXZQ&t=15s&ab_channel=Andrezitos)
+- [Mobile](https://github.com/marioantonio340/rocketseat-projects/tree/develop/nlwSpacetime/mobile)
+- [Back-end](https://github.com/marioantonio340/rocketseat-projects/tree/develop/nlwSpacetime/server)
   
 ## 🖼️ Layout
 
@@ -32,11 +35,6 @@ Você pode conferir o funcionamento do projeto por [aqui](https://).
 - [ ]
 - [ ] 
 -->
-
-## 🚀 Pitch de Apresentação de Produto
-
-{em breve}
-
 ## 🛠️ Techs
 
 **UX/UI Design**
